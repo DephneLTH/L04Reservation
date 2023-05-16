@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">L04Reservation</string>
+    <string name="textViewName">Name:</string>
+    <string name="textViewContact">Contact Name:</string>
+    <string name="textViewPeople">No. of Pax:</string>
+    <string name="textViewSeatArea">Seating Area:</string>
+    <string name="CheckBox">Smoking</string>
+    <string name="CheckBox2">Non-Smoking</string>
+    <string name="textViewDateTime">Date and Time:</string>
+    <string name="button">RESET</string>
+    <string name="button2">SUBMIT</string>
+
+
+
+</resources>
